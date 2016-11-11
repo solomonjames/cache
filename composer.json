@@ -21,7 +21,8 @@
 		"psr",
 		"psr-6",
 		"caching",
-		"interface"
+		"interface",
+		"php7"
 	],
     "extra": {
 		"branch-alias": {
