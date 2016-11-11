@@ -1,0 +1,27 @@
+{
+	"name" : "psr-php7/cache",
+	"description" : "PSR-6 Caching Interface with PHP 7 codebase.",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Pedro Batista",
+			"email" : "pedrobatista@myself.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"require" : {
+		"php" : ">=7"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Psr\\Cache\\" : "src"
+		}
+	},
+	"keywords" : [
+		"cache",
+		"psr",
+		"psr-6",
+		"caching",
+		"interface"
+	]
+}
