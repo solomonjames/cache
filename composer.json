@@ -23,5 +23,10 @@
 		"psr-6",
 		"caching",
 		"interface"
-	]
+	],
+    "extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
 }
